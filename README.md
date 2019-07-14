@@ -1,6 +1,6 @@
 # Web-App-Flashcards
 Language translation and learning web app.
-These applications will include both browser-side and server-side programming.
+It will include both browser-side and server-side programming.
 
 ## Key features of our app
 1. Google login and getting word translations from the Google Translate API.
