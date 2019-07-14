@@ -9,7 +9,7 @@ These applications will include both browser-side and server-side programming.
 4. Lets users review and flip the flashcards.  
 
 ## App View
-![flow](https://github.com/jiajunliangucdavis/Web-App-Flashcards/blob/master/View%20and%20Flow/flow.png)
+![flow](https://github.com/jiajunliangucdavis/Web-App-Flashcards/blob/master/View%20and%20Flow/flow.jpg)
 ![login](https://github.com/jiajunliangucdavis/Web-App-Flashcards/blob/master/View%20and%20Flow/login.png)
 ![create](https://github.com/jiajunliangucdavis/Web-App-Flashcards/blob/master/View%20and%20Flow/create.png)
 ![review](https://github.com/jiajunliangucdavis/Web-App-Flashcards/blob/master/View%20and%20Flow/review.png)
