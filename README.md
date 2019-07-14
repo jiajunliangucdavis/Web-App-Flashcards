@@ -1,5 +1,5 @@
 # Web-App-Flashcards
-Language translation and learning web app.
+Language translation and learning web app.  
 It will include both browser-side and server-side programming.
 
 ## Key features of our app
